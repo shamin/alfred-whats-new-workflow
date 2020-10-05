@@ -25,7 +25,11 @@
 	<key>createdby</key>
 	<string>Shamin Meerankutty</string>
 	<key>description</key>
-	<string></string>
+	<string>Google whats.new in alfred workflow
+
+Google whats.new in alfred workflow
+
+Google's whats new in alfred</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -75,7 +79,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>loading...</string>
 				<key>script</key>
 				<string>#!/bin/bash
 
@@ -87,7 +91,7 @@ osascript main.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string></string>
+				<string>Do something new</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -121,6 +125,8 @@ osascript main.js</string>
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/shamin/alfred-whats-new-workflow</string>
+	<key>version</key>
+	<string>1.0.0</string>
 </dict>
 </plist>
